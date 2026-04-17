@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+dist/
+.env
+
+# IDE and OS files
+.DS_Store
+.vscode/
